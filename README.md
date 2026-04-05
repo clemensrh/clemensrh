@@ -15,8 +15,8 @@
   </div>
 </div>
 
-### Latest Thoughts & Explorations
+<!-- ### Latest Thoughts & Explorations
 <!-- BLOG-POST-LIST:START -->
-- [Hacker Paragraph Reform](https://encryptopia.dev/blog/hacker-paragraph-reform)
+<!-- - [Hacker Paragraph Reform](https://encryptopia.dev/blog/hacker-paragraph-reform)
 - [Hello, World!](https://encryptopia.dev/blog/hello-world)
 <!-- BLOG-POST-LIST:END -->
